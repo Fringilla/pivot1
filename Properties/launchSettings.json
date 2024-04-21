@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pivot1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\patri\\OneDrive\\Bureaublad\\functiegroepen.txt\" 2 \\t \"C:\\Users\\patri\\OneDrive\\Bureaublad\\functiegroepen.tab\""
+    }
+  }
+}
